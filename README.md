@@ -54,7 +54,13 @@ Push To ContainerRegistry: We can push the image to our public or private Regist
 
 ```
 docker login --username username --password yourpassword
+```
+
+```
 docker tag localimagename username/repositoryname:tagname
+```
+
+```
 docker push username/repositoryname:tagname
 ```
 
