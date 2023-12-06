@@ -10,11 +10,16 @@ implemented on [Node.js](https://www.nodejs.org).
 
 * Clone this repository: `git clone git@github.com:babritb-bot/yolov8m-taco-detect-nodejs.git`
 * Go to the root of cloned repository
+* Install python environment.
 * Install dependencies by running `npm install`
 
 ## Run
 
 Download the trained model file from GDRIVE where we saved our model Execute:
+
+```
+pip install -r requirements.txt
+```
 
 ```
 pyhon model_downloader_gdrive.py
@@ -64,4 +69,4 @@ docker tag localimagename username/repositoryname:tagname
 docker push username/repositoryname:tagname
 ```
 
-## Then pull the docker image then run it on any instance without Dockerfile
+## Then pull the docker image from DockerHub then run it on any instance without Dockerfile
