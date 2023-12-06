@@ -1,6 +1,6 @@
 ## YoloV8 Taco Dataset
 
-# YOLOv8 model training using Google Colab
+# YOLOv8 custom model training of Taco dataset using Google Colab
 
 The complete explaination I have added in the train_taco_yolo_v8.ipynb file present under [colab-notebooks](https://github.com/babritb-bot/yolov8m-taco-detect-nodejs/tree/main/colab-notebooks).
 
@@ -19,7 +19,8 @@ implemented on [Node.js](https://www.nodejs.org).
 
 ## Run
 
-Download the trained model file from GDRIVE where we saved our model Execute:
+Download the trained model file from GDRIVE where we saved our custom trained model 
+Execute:
 
 ```
 pip install -r requirements.txt
