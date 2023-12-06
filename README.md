@@ -1,5 +1,9 @@
 ## YoloV8 Taco Dataset
 
+# YOLOv8 model training using Google Colab
+
+The complete explaination I have added in the train_taco_yolo_v8.ipynb file present under colab-notebooks folder.
+
 # YOLOv8 inference using Node.js
 
 This is a web interface to [YOLOv8 object detection neural network](https://ultralytics.com/yolov8)
