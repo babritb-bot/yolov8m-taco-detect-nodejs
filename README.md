@@ -2,7 +2,7 @@
 
 # YOLOv8 model training using Google Colab
 
-The complete explaination I have added in the train_taco_yolo_v8.ipynb file present under colab-notebooks folder.
+The complete explaination I have added in the train_taco_yolo_v8.ipynb file present under [colab-notebooks](https://github.com/babritb-bot/yolov8m-taco-detect-nodejs/tree/main/colab-notebooks).
 
 # YOLOv8 inference using Node.js
 
