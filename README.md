@@ -8,7 +8,7 @@ implemented on [Node.js](https://www.nodejs.org).
 
 ## Install
 
-* Clone this repository: `git clone git@github.com:AndreyGermanov/yolov8_onnx_nodejs.git`
+* Clone this repository: `git clone git@github.com:babritb-bot/yolov8m-taco-detect-nodejs.git`
 * Go to the root of cloned repository
 * Install dependencies by running `npm install`
 
