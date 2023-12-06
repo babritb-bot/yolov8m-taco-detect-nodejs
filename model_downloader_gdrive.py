@@ -36,6 +36,6 @@ def save_response_content(response, destination):
 file_id = '11-OQ83eUtLXo7lagE5hvAH6dZS8IR5z0'
 
 destination = os.path.join(pwd,'yolov8m.onnx')
-#print(destination)
-download_file_from_google_drive(file_id, destination)
+print(destination)
+#download_file_from_google_drive(file_id, destination)
 
