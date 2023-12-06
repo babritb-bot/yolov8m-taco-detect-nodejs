@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ```
 
 ```
-pyhon model_downloader_gdrive.py
+python model_downloader_gdrive.py
 ```
 
 Execute:
